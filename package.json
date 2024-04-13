@@ -1,11 +1,11 @@
 {
- "name": "@jitendra1604/react-doc-viewer",
+ "name": "@codebele/react-doc-viewer",
  "version": "0.1.6",
  "description": "Document viewer for react. Renders online/local documents.",
  "author": "Codebele",
  "license": "MIT",
  "repository": {
-  "url": "git@github.com:codebele/react-doc-viewer.git"
+  "url": "git@github.com:jitendra1604/react-doc-view.git"
  },
  "main": "build/index.js",
  "types": "build/index.d.ts",
